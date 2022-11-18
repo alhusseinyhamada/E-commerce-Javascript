@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 13 with FaceTime (256GB) - Blue",
+      "category": "phones",
+      "description": "6.1-inch Super Retina XDR display,Cinematic mode adds shallow depth of field and shifts focus automatically in your videos,A15 Bionic chip for lightning-fast performance",
+      "price": 24000,
+      "image": "images/product/iphone-13.jpg",
+      "rate": 5
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy A52 Dual SIM - 6.5 inches, 8 GB RAM, 128 GB - Blue",
+      "category": "phones",
+      "description": "Display Type:  Super AMOLED, 90HzDisplay Size:  6.5 inchesDisplay Resolution: 1080 x 2400 pixelsTouch Screen: YESProcessor Chipset: Qualcomm SM7125 Snapdragon 720G (8 nm)Processor CPU: Octa-coreMemory Internal: 128 GBMemory RAM: 8 GBMemory Card Slot Up To 1TBOperating System: Android ",
+      "price": 7400,
+      "image": "images/product/Samsung Galaxy A52.jpg",
+      "rate": 4.5
+    },
+    {
+      "id": 3,
+      "name": "AWEI TWS T16 Wireless Earphone",
+      "category": "Headphones",
+      "description": "Manufacturer Number : Awei-T16,Brand : null,Color : Black,Model Number : AWEI T16,Connectivity : Wireless,Compatible with : All,Type : In Ear,Microphone included ,Noise Cancelling : 1,Are batteries needed to power the product or is this product a battery : 1 ",
+      "price": 350,
+      "image": "images/product/aWEI TWS T16.jpg",
+      "rate": 3
+    },
+    {
+      "id": 4,
+      "name": "Xiaomi Mi Lite Waterproof Smart Watch with Built-in GPS and Heart Rate Monitoring - Black",
+      "category": "smart watches",
+      "description": "Unique and fashionable design,Lightweight,Made of high quality materials,Exact size and fitting,Unique and fashionable design. ",
+      "price": 1400,
+      "image": "images/product/Xiaomi Mi Lite Waterproof Smart Watch.jpg",
+      "rate": 4.4
+    },
+    {
+      "id": 5,
+      "name": "GoPro - Hero 10 Action Camera - Black",
+      "category": "cameras",
+      "description": "Life perst to capture 1.5 seconds before and after shooting, 8 times 100MB/s bit speeds three microphones with advanced wind noise, Brooch features with 14 voice settings such as GoPro, take a picture and much more. The Hero 10 Black has a built-in dual fork fold stand at the bottom",
+      "price": 10000,
+      "image": "images/product/GoPro - Hero 10 Action Camera - Black.jpg",
+      "rate": 5
+    },
+    {
+      "id": 6,
+      "name": "HW22 Plus",
+      "category": "smart watches",
+      "description": "HW22 Plus 1.75 Inch Touch Screen 44mm With Silicone Band, Bluetooth Call, Rotating Crown, Wireless Charging, Health Monitor, Fitness Tracker, Arabic Language, For Android & IOS (Rose Gold X Pink)",
+      "price": 670,
+      "image": "images/product/HW22 Plus.jpg",
+      "rate": 2.9
+    },
+    {
+      "id": 7,
+      "name": "Fujifilm X-T30 Mirrorless Digital Camera",
+      "category": "cameras",
+      "description": "Fujifilm X-T30 Mirrorless Digital Camera,Charcoal Silver with Fujinon XC15-45mm Optical Image Stabilisation Power Zoom Lens kit, Black",
+      "price": 17300,
+      "image": "images/product/Fujifilm X-T30 Mirrorless Digital Camera.jpg",
+      "rate": 4.4
+    },
+    {
+      "id": 8,
+      "name": "Anker A3028H11 Soundcore Life Q30 Bluetooth Wireless Headphones with Active Noise Cancelling - Black",
+      "category": "Headphones",
+      "description": "Anker A3028H11 Soundcore Life Q30 Bluetooth Wireless Headphones with Active Noise Cancelling - Black,Hi-Res Certified Audio with Remarkable Clarity and Detail",
+      "price": 1500,
+      "image": "images/product/Anker A3028H11.jpg",
+      "rate": 4.4
+    },
+    {
+      "id": 9,
+      "name": "Honor 50 Dual SIM - 6.75 Inches, 256GB, 8GB RAM, 5G - Midnight Black",
+      "category": "phones",
+      "description": "Honor 50 Dual SIM - 6.75 Inches, 256GB, 8GB RAM, 5G - Midnight Black,Pre order with Honor Band 6 Fitness Tracker - Black",
+      "price": 10000,
+      "image": "images/product/Honor 50 Dual SIM.jpg",
+      "rate": 4.1
+    },
+    {
+      "id": 10,
+      "name": "INSTAX Mini 11 Instant Film Camera - Ice White",
+      "category": "cameras",
+      "description": "INSTAX Mini 11 Instant Film Camera - Ice White,Unique and fashionable design",
+      "price": 1700,
+      "image": "images/product/cameraa.jpg",
+      "rate": 2.2
+    },
+    {
+      "id": 11,
+      "name": "Reno 6 Black Dual Sim 8GB RAM 128GB 4G LTE -",
+      "category": "phones",
+      "description": "The OPPO Reno6 features up to 8 GB + 128 GB of internal storage for all your memories. And, in case that’s not enough, you can enjoy its RAM expansion capabilities as well This mobile phone features a fingerprint-proof finish for an aesthetic appeal. And, with the Flash Snapshot powered by OPPO exclusive Image Clear Engine and Color Temperature Sensor, the mobile phone can automatically focus as soon as you kickstart the camera.",
+      "price": 8400,
+      "image": "images/product/Reno 6 Black Dual Sim 8GB RAM 128GB 4G LTE.jpg",
+      "rate": 4.6
+    },
+    {
+      "id": 12,
+      "name": "Huawei Nova 7i Dual SIM - 128 GB, 8 GB RAM, 4G LTE - Crush Green",
+      "category": "phones",
+      "description": "Rear Camera: 48MP + 8MP + 2MP + 2MP,Front Camera: 16MP,Display: 6.4 inch,Battery: 4200mAh,ROM: 128GB,RAM: 8GB,Dual SIM, ",
+      "price": 6200,
+      "image": "images/product/Huawei Nova 7i Dual SIM - 128 GB, 8 GB RAM, 4G LTE - Crush Green.jpg",
+      "rate": 4.5
+    },
+    {
+      "id": 13,
+      "name": "A3 Super Bass Headphones Wireless-Yellow",
+      "category": "Headphones",
+      "description": "Brand: Generic,Color: yellow,Model: a3,Type: Headphone",
+      "price": 240,
+      "image": "images/product/A3 Super Bass Headphones Wireless-Yellow.jpg",
+      "rate": 2.5
+    },
+    {
+      "id": 14,
+      "name": "Xiaomi Mi Lite Waterproof Smart Watch with Built-in GPS and Heart Rate Monitoring - Black",
+      "category": "smart watches",
+      "description": "Body Composition Analysis: Know your body, own your body. With the built-in BioActive Sensor, measure your body's fat percentage, skeletal muscle, body water and more. Level up your fitness game straight from your wrist. ",
+      "price": 5800,
+      "image": "images/product/Samsung Galaxy Watch4 Classic.jpg",
+      "rate": 3.5
+    },
+    {
+      "id": 15,
+      "name": "EZVIZ C1HC HD Resolution Indoor Wi-Fi Security Camera",
+      "category": "cameras",
+      "description": "Manufacturer Number : C1HC,External Product ID : 6971744238087,External Product ID Type : EAN-13,Type : Security Cameras,Brand : EZVIZ ",
+      "price": 6400,
+      "image": "images/product/EZVIZ C1HC HD Resolution Indoor Wi-Fi Security Camera.jpg",
+      "rate": 3.8
+    }
+  ]
+}
